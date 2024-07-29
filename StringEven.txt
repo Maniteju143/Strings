@@ -1,0 +1,11 @@
+public class String{
+public static void main(String[]args){
+String s="teju hi hwru";
+for(str::s.Split(" "){
+if(str%2==0){
+System.out.println(str);
+
+
+}
+}
+}
